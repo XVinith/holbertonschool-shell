@@ -1,2 +1,2 @@
 #!/bin/bash
-su -e hello
+su betty -e hello
